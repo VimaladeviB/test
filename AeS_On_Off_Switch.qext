@@ -1,0 +1,8 @@
+{
+	"name": "#AeS On Off Switch",
+	"description": "On Off Switch Button, It will present the output as 0 or 1 based on user selection. ",
+	"type": "visualization",
+	"preview": "img.png",
+	"version": 1,
+	"author": "Assure eServices Inc.,"
+}
